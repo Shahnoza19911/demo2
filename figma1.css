@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.nabar1{
+    width: 1024px;
+    height: 200px;
+    display: flex;
+    background-color: #014E56;
+    margin: auto;
+    padding: 1px;
+}
+.nabar-text{
+    color: white;
+    margin-top: 59px;
+    margin-left: 96px;
+    font-family: sans-serif;
+}
+.span{
+    color: #F67E7E;
+}
+.nabar-png{
+    position: absolute;
+    margin-left: 923px;
+}
+.nabar-h{
+    margin-top: 10px;
+}
+/* main-qismi */
+.main1{
+    width: 1024px;
+    height:631px;
+    margin: auto;
+    border:2px solid red;
+}
+.main-wreb{
+    width: 845px;
+    height: 531px;
+    margin: auto;
+    border: 2px solid blue;
+}
